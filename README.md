@@ -30,6 +30,11 @@ https://github.com/Usman3278
 
 # Screenshots
 
+<img width="1432" alt="Screen Shot 2021-03-18 at 12 12 26" src="https://user-images.githubusercontent.com/71395909/111662803-a4150180-87e6-11eb-8973-934adfc7ed2e.png">
+
+<img width="1431" alt="Screen Shot 2021-03-18 at 12 12 48" src="https://user-images.githubusercontent.com/71395909/111662843-ab3c0f80-87e6-11eb-8113-6c1a12f18858.png">
+
+
 
 
 
