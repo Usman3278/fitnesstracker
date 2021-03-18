@@ -1,0 +1,25 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "Allows the user to track a workout. Various attributes of the workout can be stored. The workouts are saved in a Mongo database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usman3278/fitnesstracker"
+  },
+  "keywords": [
+    "fitness-tracker",
+    "exercise-app",
+    "fitness-app",
+    "exercise-tracker"
+  ],
+  "author": "Muhammad Usman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usman3278/fitnesstracker/issues"
+  },
+  "homepage": "https://github.com/Usman3278/fitnesstracker/blob/main/README.md"
+}
