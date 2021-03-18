@@ -18,7 +18,7 @@ Add new exercises to a new workout plan.
 
 # Link to Deployed App
 
-Link to deployed app (Click to open app)
+Link to deployed app (https://cryptic-island-85185.herokuapp.com/)
 
 # GitHub Repo:
 
