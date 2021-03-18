@@ -25,6 +25,7 @@ Link to deployed app (Click to open app)
 https://github.com/Usman3278/fitnesstracker
 
 # Portfolio Page
+
 https://github.com/Usman3278
 
 # Screenshots
